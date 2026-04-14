@@ -1,0 +1,120 @@
+
+
+#SumOfProd{
+position:relative;
+border:0px;border-style:solid;
+border-color:#888888;
+
+}
+
+/*===Info==============================================================*/
+
+#SumOfProd_Info{
+  position:relative;
+  float:none;
+  clear:both;   
+  padding:20px;
+  margin-top:10px;
+  margin-bottom:50px;
+  border:0px;border-style:solid;
+  border-color:#888888; 
+  font-size:20pt;
+  color:darkblue;
+  background:#ffffff;
+}
+
+
+
+/*===SumOfProd==============================================================*/
+
+#SumOfProd #SumOfProd_Parts{
+  position:relative;
+  float:none;
+  clear:both; 
+  border:0px;border-style:solid;
+  border-color:#888888;
+}
+
+  #SumOfProd #SumOfProd_Parts #Insight{
+    position:relative;
+    float:left;
+    width:33%;
+    padding-bottom:5px;
+    border:0px;border-style:solid;
+    border-color:#888888;
+    background:orange;
+  }
+  #SumOfProd #SumOfProd_Parts #DCS{
+    position:relative;
+    float:left;
+    width:33%;
+    padding-bottom:5px;
+    border:0px;border-style:solid;
+    border-color:#888888;
+    background:#1E90FF;
+  }
+  
+  #SumOfProd #SumOfProd_Parts #Total{
+    position:relative;
+    float:left;
+    width:34%;
+    padding-bottom:5px;
+    border:0px;border-style:solid;
+    border-color:#888888;
+    background:#228B22;
+  }
+
+/*===Goal==============================================================*/
+
+#SumOfProd #SumOfProd_Goal{
+  position:relative;
+  clear:both;
+  float:none;
+  clear:both;
+  padding-top:20px;
+  border:0px;border-style:solid;
+  border-color:#888888;
+  background:goldenrod;
+  
+}
+
+
+#SumOfProd #SumOfProd_Goal #GoalBar{
+  position:relative;
+  float:none;
+  clear:both;
+  height:60px;
+  padding:0px;
+  border:0px;border-style:solid;
+  border-color:#888888;
+  background:red;
+}
+#SumOfProd #SumOfProd_Goal #AchivedBar{
+  position:absolute;
+  height:60px;
+  border:0px;border-style:solid;
+  border-color:#888888;
+  background:#228B22;
+  z-index: 1;
+}
+
+#SumOfProd #SumOfProd_Goal #AchivedPercent
+{
+  position:absolute;
+  width:100%;
+  z-index: 2;
+}
+
+#SumOfProd .SumOfProd_Title{
+       color:#000000;    
+       font-size:30pt;
+}
+
+#SumOfProd .SumOfProd_SubTitle{
+       color:#000000;    
+       font-size:16pt;
+}
+#SumOfProd .SumOfProd_Value{
+       color:white;    
+       font-size:3vh;
+}

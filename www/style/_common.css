@@ -1,0 +1,41 @@
+
+
+* {margin:0px;padding:0px;}
+
+body {
+      color:#000000; 
+      background-color:#cccccc;
+      font-size:10pt;
+      font-family:Tahoma,MS Sans Serif,Arial CE;
+      text-decoration: none;
+      font-weight:normal;
+      margin:0px;
+      text-align:center;
+      overflow: hidden;
+}
+     
+img {border:none;}
+
+/*===main==============================================================*/
+
+#div_clear{position:relative;clear:both;}
+
+#mainpanel{
+  position:relative;
+  border:0px;border-style:solid;
+	border-color:#888888;
+	background:#cccccc;
+  font-size:20pt; 
+  
+}
+
+#mainpanel #NonMsgInfo{
+  position:relative;
+  
+  padding-top:50px;
+  border:0px;border-style:solid;
+	border-color:#888888;
+	background:#cccccc;
+  font-size:80pt; 
+  
+}

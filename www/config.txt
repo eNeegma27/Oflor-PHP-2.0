@@ -1,0 +1,6 @@
+﻿{ "InstantAlert":0,"Alert":0,"Info":0,"SumOfProd":1
+,"AlertTime":10,"InfoTime":10,"SumOfProdTime":30
+,"AlertContent":"---Przywołanie testowe---<br>Proszę p. Rafala Likowskiego <br> o podejście do Kadr <br><br> po godz. 14-tej"
+,"InfoContent1":"Życzenia grudniowe"
+,"InfoContent2":"Wesołych Świąt <br>i Szcześliwego Nowego Roku 2026"
+,"SumOfProdContent":"Życzymy bezpiecznej pracy"}
